@@ -1,2 +1,3 @@
 # smolenskiyvd.github.io
-мой первый хостинг
+* [Github профиль](https://github.com/smolenskiyvd)
+* [Репозиторий](https://github.com/d1slike/inet-lab)
